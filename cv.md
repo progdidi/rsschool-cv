@@ -22,7 +22,7 @@ I like to do useful things and constantly develop, to learn new things, and I al
 
 ## Code example
 **Task**: Odd or Even? <br>
-**Solution**: 
+**Solution**: <br>
         ```
         function oddOrEven(array) {
         //enter code here
