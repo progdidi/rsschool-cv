@@ -23,25 +23,27 @@ I like to do useful things and constantly develop, to learn new things, and I al
 ## Code example
 **Task**: Odd or Even? <br>
 **Solution**: <br>
-        ```
-        function oddOrEven(array) {
-        //enter code here
-        let result = 0;
-        for (let i = 0; i < array.length; i ++) {
-            result = result + array[i];
-            console.log(result)
-        }
-        
-        if (result % 2 === 0) {
-            return 'even'
-        } else {
-            return 'odd'
-        }
-        }
 
-        let arr = [7, 10, 5, 40];
-        console.log(oddOrEven(arr));
-        ```
+```
+
+function oddOrEven(array) {
+//enter code here
+let result = 0;
+for (let i = 0; i < array.length; i ++) {
+    result = result + array[i];
+    console.log(result)
+}
+
+if (result % 2 === 0) {
+    return 'even'
+} else {
+    return 'odd'
+}
+}
+
+let arr = [7, 10, 5, 40];
+console.log(oddOrEven(arr));
+```
 
 ## Experience
 At the moment I have no practical commercial experience, however, in the process of learning, I created various sites that can be viewed here: https://progdidi.github.io/#
