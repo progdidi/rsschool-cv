@@ -21,8 +21,9 @@ I like to do useful things and constantly develop, to learn new things, and I al
 - Git, Github
 
 ## Code example
-**Task**: Odd or Even?
+**Task**: Odd or Even? <br>
 **Solution**: 
+        ```
         function oddOrEven(array) {
         //enter code here
         let result = 0;
@@ -40,8 +41,9 @@ I like to do useful things and constantly develop, to learn new things, and I al
 
         let arr = [7, 10, 5, 40];
         console.log(oddOrEven(arr));
+        ```
 
-## Expirience
+## Experience
 At the moment I have no practical commercial experience, however, in the process of learning, I created various sites that can be viewed here: https://progdidi.github.io/#
 
 ## Education
